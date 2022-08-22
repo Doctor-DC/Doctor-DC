@@ -2,6 +2,13 @@
 
 ![Doctor-DC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Doctor-DC&show_icons=true&count_private=true&theme=gotham)
 
+![](https://github-readme-stats.vercel.app/api?username=Doctor-DC)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Doctor-DC/Doctor-DC/main/code.gif" width="350" height="193" />
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **Doctor-DC/Doctor-DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
