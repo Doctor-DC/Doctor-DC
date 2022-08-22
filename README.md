@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Doctor-DC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Doctor-DC&show_icons=true&count_private=true&theme=gotham)
+![Doctor-DC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-DC&count_private=true&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api?username=Doctor-DC)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Doctor-DC/Doctor-DC/main/code.jpeg" width="350" height="193" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-DC&count_private=true&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
