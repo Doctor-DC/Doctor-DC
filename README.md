@@ -5,11 +5,12 @@
 </h3>
 
 
+
 <p align="center">
   <a href="https://github.com/Easychris"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&lines=Always+learning+new+things;4+years+of+coding+experience"></a>
-
 </p>
 
+  - 🧑‍💻 I’m good at React
 
 ![Doctor-DC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-DC&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-DC&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
