@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Doctor-DC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Doctor-DC&show_icons=true&count_private=true&theme=gotham)
+
 <!--
 **Doctor-DC/Doctor-DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
