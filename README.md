@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Doctor-DC"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&lines=Always+learning+new+things;4+years+of+coding+experience"></a>
+  <a href="https://github.com/Doctor-DC"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&lines=Always+learning+new+things"></a>
 </p>
 
   - 🧑‍💻 I’m good at React
