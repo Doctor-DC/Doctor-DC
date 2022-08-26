@@ -12,7 +12,7 @@
   <a href="https://github.com/Doctor-DC"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&lines=Always+learning+new+things"></a>
 </p>
 
-  - 🧑‍💻 I’m good at React
+  - 🧑‍💻 Passionate front-end developer who lives and works in Shanghai.
   - ⚡ Love rock 🤟🏼🎸
 
 ![Doctor-DC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-DC&count_private=true&show_icons=true&theme=tokyonight)
